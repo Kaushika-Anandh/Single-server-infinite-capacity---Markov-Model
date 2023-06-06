@@ -1,3 +1,29 @@
+Exp.No : 04
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 26.04.2023
+<br>
+
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
 To find 
